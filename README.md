@@ -6,3 +6,7 @@ pages, i have searched some methods how to delete but i dident, then after that 
 this is a good app helped to me to remove those virus from my mac. now i dont have virus and its starting working hapiply.
 so if you guys have problems can use this app is free 
 
+you can download this app
+https://www.malwarebytes.com
+
+
