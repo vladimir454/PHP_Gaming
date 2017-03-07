@@ -1,0 +1,28 @@
+small use of implode 
+what implode do just convert an array into a string 
+what explodo do also convert or turn on string a array 
+
+define an array:
+$dates=[
+    'username'=>'vlass',
+    'gender' =>'masculine',
+    'age' =>'21',
+    'completed'=>1
+    ];
+    
+we can print with foreach 
+
+foreach($dates as $date(remenber this will take value from dates array){
+print "<p>$date</p>";
+vlassmasculine211int(1) we have ths solution 
+
+
+then we do with implode its more excelent 
+$date= implode(' - ', $dates);
+var_dump($date);
+
+string(26) "vlass - masculine - 21 - 1" this is a result
+
+so this is a pretty good 
+even we can print like vlass , masculine , 21, 1
+enjoy
