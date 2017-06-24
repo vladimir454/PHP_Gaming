@@ -1,4 +1,4 @@
-"""php
+<pre>
 
 <?php
 
@@ -413,4 +413,4 @@ class MemberController extends BaseController{
 }
 
 ?>
-"""
+</pre>
